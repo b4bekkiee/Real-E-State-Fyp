@@ -6,7 +6,7 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBx2wftB87d22mGssKBcJARloX3uznXjpI"
+  apiKey: "process.ENV_GOOGLE_API"
   ,
   authDomain: "mern-estate-81e50.firebaseapp.com",
   projectId: "mern-estate-81e50",
